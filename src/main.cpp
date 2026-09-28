@@ -17,7 +17,7 @@ int main() {
     bn::fixed speed = 1.5;
 
     bn::fixed dy = 0;
-    bn::fixed gravity = .03;
+    bn::fixed gravity = .01;
 
     bn::fixed jump_strength = 1.3;
 
